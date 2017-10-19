@@ -6,14 +6,14 @@ position: absolute;
 
 
 .Rtriangle {
-	top: 260px;
-	left: 110px;
+	top: 265px;
+	left: 113px;
 	width: 0;
 	height: 0;
 	border-left: 0px solid transparent;
 	border-right: 180px solid transparent;
-	border-bottom: 70px solid rgb(0, 0, 0);
-	transform: rotate(90deg);
+	border-bottom: 45px solid rgb(0, 0, 0);
+	transform: rotate(96deg);
 }
 
 .Rtriangle2 {
@@ -27,25 +27,25 @@ position: absolute;
 }
 
 .Rtriangle3 {
-	top: 344px;
-	left: 230px;
+	top: 352px;
+	left: 236px;
 	width: 0;
 	height: 0;
 	border-left: 00px solid transparent;
 	border-right: 100px solid transparent;
-	border-bottom: 50px solid rgb(0, 0, 0);
+	border-bottom: 35px solid rgb(0, 0, 0);
 	transform: rotate(90deg);
 }
 
 
 .Rtriangle4 {
-	top: 230px;
-	left: 240px;
+	top: 220px;
+	left: 230px;
 	width: 0;
 	height: 0;
 	border-left: 25px solid transparent;
-	border-right: 35px solid transparent;
-	border-bottom: 55px solid rgb(255, 255, 255);
+	border-right: 45px solid transparent;
+	border-bottom: 75px solid rgb(255, 255, 255);
 }
 
 
@@ -61,14 +61,25 @@ position: absolute;
 
 
 .Atriangle2 {
-	top: 210px;
-	left: 390px;
+	top: 230px;
+	left: 370px;
 	width: 0;
 	height: 0;
 	border-left: 60px solid transparent;
 	border-right: 60px solid transparent;
-	border-bottom: 130px solid rgb(255, 255, 255);
+	border-bottom: 165px solid rgb(255, 255, 255);
 }
+
+
+.Abox {
+	top: 200px;
+	left: 425px;
+	width: 10px;
+	height: 200px;
+	background-color: rgb(255, 255, 255);
+}
+
+
 
 
 .Ntriangle {
@@ -131,32 +142,224 @@ position: absolute;
 
 .Ntriangle3 {
 	top: 213px;
-	left: 700px;
+	left: 670px;
 	width: 0;
 	height: 0;
 	border-left: 20px solid transparent;
 	border-right: 20px solid transparent;
 	border-bottom: 160px solid rgb(0, 0, 0);
-	transform: rotate(180deg);
 }
+
+
+
+.Nbox3 {
+	top: 195px;
+	left: 658px;
+	width: 10px;
+	height: 210px;
+	transform: rotate(-34deg);
+	background-color: rgb(255, 255, 255);
+}
+
+
+
+.Nbox4 {
+	top: 324px;
+	left: 659.4px;
+	width: 30px;
+	height: 80px;
+	transform: rotate(-46deg);
+	background-color: rgb(255, 255, 255);
+}
+
 
 
 
 .Gbox {
-	top: 210px;
-	left: 800px;
-	background-color: rgb(0, 0, 0);
-	transform: rotate(45deg);
+  top: 230px;
+  left: 780px; 
+  width: 130px;
+  height: 130px;
+  background-color: rgb(0,0,0);
+  transform: rotate(45deg);
 }
 
 
+
 .Gtriangle {
-	top: 230px;
-	left: 820px;
+  top: 225px;
+  left: 785px;
+  width: 0;
+  height: 0;
+  border-left: 60px solid transparent;
+  border-right: 60px solid transparent;
+  border-bottom: 70px solid rgb(255, 255, 255);
+}
+
+
+
+.Gbox2 {
+  top: 165px;
+  left: 845px; 
+  width: 130px;
+  height: 130px;
+  background-color: rgb(255,255,255);
+}
+
+
+
+.Gtriangle2 {
+  top: 295px;
+  left: 785px;
+  width: 0;
+  height: 0;
+  border-left: 60px solid transparent;
+  border-right: 60px solid transparent;
+  border-bottom: 70px solid rgb(255, 255, 255);
+  transform: rotate(180deg);
+}
+
+
+.Gtriangle3 {
+	top: 262px;
+	left: 842px;
 	width: 0;
 	height: 0;
-	border-left: 25px solid transparent;
-	border-right: 35px solid transparent;
-	border-bottom: 55px solid rgb(0, 0, 0);
-	transform: rotate(20deg);
+	border-left: 15px solid transparent;
+	border-right: 15px solid transparent;
+	border-bottom: 90px solid rgb(0, 0, 0);
+	transform: rotate(-90deg);
+}
+
+
+.Gbox3 {
+	top: 270px;
+	left: 872px;
+	width: 10px;
+	height: 100px;
+	transform: rotate(41.7deg);
+	background-color: rgb(255, 255, 255);
+}
+
+
+
+.description {
+	top: 500px;
+	font-family: Helvetica;
+	font-size: 32px;
+	color: rgb(50, 50, 50);
+	width: 700px;
+	line-height: 46px;
+	font-weight: bold;
+}
+
+
+
+.Etriangle {
+	top: 270px;
+	left: 923px;
+	width: 0;
+	height: 0;
+	border-left: 0px solid transparent;
+	border-right: 180px solid transparent;
+	border-bottom: 45px solid rgb(0, 0, 0);
+	transform: rotate(90deg);
+}
+
+
+.Ebox {
+	top: 190px;
+	left: 1011px;
+	width: 13px;
+	height: 220px;
+	background-color: rgb(255, 255, 255);
+	transform: rotate(14deg);
+}
+
+
+.Etriangle2 {
+	top: 155px;
+	left: 1060px;
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 115px solid rgb(0, 0, 0);
+	transform: rotate(80deg);
+}
+
+
+.Etriangle3 {
+	top: 235px;
+	left: 1030px;
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 100px solid rgb(0, 0, 0);
+	transform: rotate(80deg);
+}
+
+
+.Etriangle4 {
+	top: 305px;
+	left: 1025px;
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 100px solid rgb(0, 0, 0);
+	transform: rotate(80deg);
+}
+
+
+.Sbox {
+	top: 200px;
+	left: 1200px;
+	width: 20px;
+	height: 190px;
+	background-color: rgb(0, 0, 0);
+	transform: rotate(-20deg);
+}
+
+.Sbox2 {
+	top: 200px;
+	left: 1188px;
+	width: 13px;
+	height: 200px;
+	background-color: rgb(255, 255, 255);
+	transform: rotate(-20deg);
+}
+
+
+.Sbox3 {
+	top: 190px;
+	left: 1218px;
+	width: 13px;
+	height: 200px;
+	background-color: rgb(255, 255, 255);
+	transform: rotate(-20deg);
+}
+
+
+.Striangle {
+	top: 168px;
+	left: 1210px;
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 100px solid rgb(0, 0, 0);
+	transform: rotate(80deg);
+}
+
+.Striangle2 {
+	top: 325px;
+	left: 1160px;
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 100px solid rgb(0, 0, 0);
+	transform: rotate(-100deg);
 }
