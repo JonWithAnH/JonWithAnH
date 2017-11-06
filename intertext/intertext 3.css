@@ -16,6 +16,12 @@ padding-right: 40px;
 }
 
 
+a{
+  color:white;
+  text-decoration: none;
+}
+
+
 
 .heading {
   position: absolute;
@@ -84,3 +90,5 @@ padding-right: 40px;
   overflow: scroll;
   color: white
 }
+
+

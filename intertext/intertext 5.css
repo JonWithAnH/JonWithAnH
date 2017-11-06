@@ -15,6 +15,10 @@ padding-left: 150px;
 padding-right: 40px;
 }
 
+a{
+  color:red;
+  text-decoration: none;
+}
 
 
 .heading {
@@ -30,25 +34,25 @@ padding-right: 40px;
   text-transform: uppercase;
   text-align: left;
   height: 100%;
-  color: black
+  color: red
 
 }
 
 
 .bottom {
   position: absolute;
-  top: 740px;
+  top: 140px;
   left: 560px;
   width: 500px;
   font-family: 'Special Elite', cursive;
-  font-size: 120px;
+  font-size: 170px;
   font-weight: bold;
   line-height: 140px;
   letter-spacing: 10px;
   text-transform: uppercase;
   text-align: left;
   height: 100%;
-  color: black
+  color: red
 }
 
 
@@ -66,13 +70,13 @@ padding-right: 40px;
   text-align: left;
   height: 100%;
   overflow: scroll;
-  color: black
+  color: white
 }
 
 
 .rightblock {
   position: absolute;
-  top: 100px;
+  top: 440px;
   left: 570px;
   width: 400px;
   font-family: 'Special Elite', cursive;
@@ -82,5 +86,5 @@ padding-right: 40px;
   text-align: left;
   height: 100%;
   overflow: scroll;
-  color: black
+  color: white
 }
