@@ -7,6 +7,11 @@ img {
 }
 
 
+audio:{
+  display: none;
+}
+
+
 .keyblade-back{
   top: 650px;
   left: 20px;

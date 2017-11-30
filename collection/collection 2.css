@@ -6,6 +6,10 @@ img {
   position: absolute;
 }
 
+audio:{
+  display: none;
+}
+
 
 .keyblade-back{
   top: 650px;
