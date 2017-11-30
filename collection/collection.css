@@ -1,0 +1,211 @@
+div {
+  position: absolute;
+}
+
+img {
+  position: absolute;
+}
+
+
+.keyblade-back{
+  top: 650px;
+  left: 20px;
+}
+
+
+.sorabw{
+
+top: 150px;
+left: 250px;
+
+}
+
+.sora{
+
+top: 150px;
+left: 250px;
+opacity: 0;
+transition: all 0.5s ease-in-out;
+
+}
+
+.sora:hover{
+  opacity: 100;
+}
+
+
+
+.rikubw{
+
+top: 150px;
+left: 720px;
+
+}
+
+.riku{
+
+top: 150px;
+left: 720px;
+opacity: 0;
+transition: all 0.5s ease-in-out;
+
+}
+
+.riku:hover{
+  opacity: 100;
+}
+
+
+
+.kh .kh1 {
+  top: 150px;
+  left: 50px;
+    width: 200px;
+    height: auto;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.kh:hover .kh1{
+top: 44px;
+}
+
+
+.kh {
+ top: 0px;
+  left: 50px;
+    width: 0px;
+	height: 800px;
+}
+
+
+.kh .kh1link {
+	top: 325px;
+	left: 50px;
+	width: 200px;
+	height: auto;
+	cursor: pointer;
+}
+
+
+
+
+.kh-text{
+   position: absolute;
+  top: 448px;
+  left: 119px;
+  font-family: 'Helvetica';
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+
+}
+
+
+
+
+
+
+.kh-com .khcom {
+  top: 150px;
+  left: 265px;
+    width: 200px;
+    height: auto;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.kh-com:hover .khcom{
+top: 44px;
+}
+
+
+.kh-com {
+ top: 0px;
+  left: 265px;
+    width: 0px;
+  height: 800px;
+}
+
+
+.kh-com .khcomlink {
+  top: 325px;
+  left: 265px;
+  width: 200px;
+  height: auto;
+  cursor: pointer;
+}
+
+.khcom-text{
+   position: absolute;
+  top: 448px;
+  left: 535px;
+  font-family: 'Helvetica';
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.kh-2 .kh2 {
+  top: 150px;
+  left: 485px;
+    width: 200px;
+    height: auto;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.kh-2:hover .kh2{
+top: 44px;
+}
+
+
+.kh-2 {
+ top: 0px;
+  left: 485px;
+    width: 0px;
+  height: 800px;
+}
+
+
+.kh-2 .kh2link {
+  top: 325px;
+  left: 485px;
+  width: 200px;
+  height: auto;
+  cursor: pointer;
+}
+
+.kh2-text{
+   position: absolute;
+  top: 448px;
+  left: 977px;
+  font-family: 'Helvetica';
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+
+}
+
+
+

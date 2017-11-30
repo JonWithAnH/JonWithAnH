@@ -1,0 +1,130 @@
+div{
+position: absolute;
+width: 300px;
+height: 20px;
+color: rgb(80, 80, 80);
+text-align: middle;
+font-weight: 400;
+letter-spacing: 2px;
+text-transform: lowercase;
+font-family: 'Helvetica';
+font-weight: bold;
+}
+
+img {
+  position: absolute;
+}
+
+a{
+  color:white;
+  text-decoration: none;
+}
+
+
+
+.title {
+  top: 20px;
+  left: 290px;
+    width: 20px;
+    height: auto;
+}
+
+
+.crown {
+  top: 190px;
+  left: 278px;
+    transition: all 0.5s ease-in-out;
+    display: block;
+    padding: 20px;
+}
+
+
+.crown:hover {
+top: 168px;
+}
+
+
+.crown-text {
+  position: absolute;
+  top: 410px;
+  left: 357px;
+  font-family: 'Helvetica';
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: left;
+  color: white
+
+}
+
+
+
+.heart1 {
+  top: 280px;
+  left: 571px;
+}
+
+
+.heart2 {
+  top: 267px;
+  left: 549px;
+    transition: all 0.5s ease-in-out;
+    transform-origin: bottom left;
+}
+
+
+.heart2:hover {
+  top: 243px;
+  left: 667px;
+transform: rotate(40deg);
+}
+
+
+.heart-text {
+  position: absolute;
+  top: 305px;
+  left: 652px;
+  font-family: 'Helvetica';
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: left;
+  color: white
+  width: 0px;
+
+}
+
+
+
+.keyblade {
+  top: 320px;
+  left: 1025px;
+    transition: all 0.5s ease-in-out;
+    transform: rotate(90deg);
+transform-origin: left;
+
+}
+
+
+.keyblade:hover {
+top: 320px;
+left: 1140px;
+}
+
+
+.keyblade-text {
+  position: absolute;
+  top: 362px;
+  left: 800px;
+  font-family: 'Helvetica';
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: left;
+  color: white;
+
+
+

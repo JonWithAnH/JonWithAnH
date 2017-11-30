@@ -1,0 +1,211 @@
+div {
+  position: absolute;
+}
+
+img {
+  position: absolute;
+}
+
+
+.keyblade-back{
+  top: 650px;
+  left: 20px;
+}
+
+
+
+.aquabw{
+
+top: 140px;
+left: 275px;
+
+}
+
+.aqua{
+
+top: 140px;
+left: 275px;
+opacity: 0;
+transition: all 0.5s ease-in-out;
+
+}
+
+.aqua:hover{
+  opacity: 100;
+}
+
+
+
+.mickeybw{
+
+top: 150px;
+left: 700px;
+
+}
+
+.mickey{
+
+top: 150px;
+left: 700px;
+opacity: 0;
+transition: all 0.5s ease-in-out;
+
+}
+
+.mickey:hover{
+  opacity: 100;
+}
+
+
+
+.kh-ddd .khddd {
+  top: 196px;
+  left: 60px;
+    width: 200px;
+    height: auto;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.kh-ddd:hover .khddd{
+top: 83px;
+}
+
+
+.kh-ddd {
+ top: 0px;
+  left: 60px;
+    width: 0px;
+	height: 800px;
+}
+
+
+.kh-ddd .khdddlink {
+	top: 325px;
+	left: 60px;
+	width: 200px;
+	height: auto;
+	cursor: pointer;
+}
+
+
+
+
+.khddd-text{
+   position: absolute;
+  top: 448px;
+  left: 119px;
+  font-family: 'Helvetica';
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+
+}
+
+
+
+
+
+
+.kh-28 .kh28 {
+  top: 188px;
+  left: 280px;
+    width: 200px;
+    height: auto;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.kh-28:hover .kh28{
+top: 75px;
+}
+
+
+.kh-28 {
+ top: 0px;
+  left: 280px;
+    width: 0px;
+  height: 800px;
+}
+
+
+.kh-28 .kh28link {
+  top: 325px;
+  left: 280px;
+  width: 200px;
+  height: auto;
+  cursor: pointer;
+}
+
+.kh28-text{
+   position: absolute;
+  top: 448px;
+  left: 535px;
+  font-family: 'Helvetica';
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.kh-3 .kh3 {
+  top: 190px;
+  left: 485px;
+    width: 200px;
+    height: auto;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.kh-3:hover .kh3{
+top: 72px;
+}
+
+
+.kh-3 {
+ top: 0px;
+  left: 485px;
+    width: 0px;
+  height: 800px;
+}
+
+
+.kh-3 .kh3link {
+  top: 325px;
+  left: 485px;
+  width: 200px;
+  height: auto;
+  cursor: pointer;
+}
+
+.kh3-text{
+   position: absolute;
+  top: 448px;
+  left: 977px;
+  font-family: 'Helvetica';
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+
+}
+
+

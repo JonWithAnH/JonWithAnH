@@ -1,0 +1,211 @@
+div {
+  position: absolute;
+}
+
+img {
+  position: absolute;
+}
+
+
+.keyblade-back{
+  top: 650px;
+  left: 20px;
+}
+
+
+.kairibw{
+
+top: 145px;
+left: 255px;
+
+}
+
+.kairi{
+
+top: 145px;
+left: 255px;
+opacity: 0;
+transition: all 0.5s ease-in-out;
+
+}
+
+.kairi:hover{
+  opacity: 100;
+}
+
+
+
+.xionbw{
+
+top: 120px;
+left: 660px;
+
+}
+
+.xion{
+
+top: 120px;
+left: 660px;
+opacity: 0;
+transition: all 0.5s ease-in-out;
+
+}
+
+.xion:hover{
+  opacity: 100;
+}
+
+
+
+.kh-coded .khcoded {
+  top: 150px;
+  left: 50px;
+    width: 200px;
+    height: auto;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.kh-coded:hover .khcoded{
+top: 40px;
+}
+
+
+.kh-coded {
+ top: 0px;
+  left: 50px;
+    width: 0px;
+	height: 800px;
+}
+
+
+.kh-coded .khcodedlink {
+	top: 325px;
+	left: 50px;
+	width: 200px;
+	height: auto;
+	cursor: pointer;
+}
+
+
+
+
+.khcoded-text{
+   position: absolute;
+  top: 448px;
+  left: 115px;
+  font-family: 'Helvetica';
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+
+}
+
+
+
+
+
+
+.kh-358 .kh358 {
+  top: 150px;
+  left: 265px;
+    width: 200px;
+    height: auto;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.kh-358:hover .kh358{
+top: 40px;
+}
+
+
+.kh-358 {
+ top: 0px;
+  left: 265px;
+    width: 0px;
+  height: 800px;
+}
+
+
+.kh-358 .kh358link {
+  top: 325px;
+  left: 265px;
+  width: 200px;
+  height: auto;
+  cursor: pointer;
+}
+
+.kh358-text{
+   position: absolute;
+  top: 448px;
+  left: 545px;
+  font-family: 'Helvetica';
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.kh-bbs .khbbs {
+  top: 150px;
+  left: 485px;
+    width: 200px;
+    height: auto;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.kh-bbs:hover .khbbs{
+top: 40px;
+}
+
+
+.kh-bbs {
+ top: 0px;
+  left: 485px;
+    width: 0px;
+  height: 800px;
+}
+
+
+.kh-bbs .khbbslink {
+  top: 325px;
+  left: 485px;
+  width: 200px;
+  height: auto;
+  cursor: pointer;
+}
+
+.khbbs-text{
+   position: absolute;
+  top: 448px;
+  left: 986px;
+  font-family: 'Helvetica';
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+
+}
+
+
+
